@@ -1,2 +1,0 @@
-version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
-3,SM-G780G,1789115843691,2026-09-11_08-37-23,Europe/Amsterdam,android,1.64,83f37dea-3091-41cf-84d7-76e6938702ff,Accelerometer|Gravity|Gyroscope|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10||10|10|10,false,33
