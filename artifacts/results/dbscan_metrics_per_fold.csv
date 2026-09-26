@@ -1,0 +1,8 @@
+split,model,held_out,n,tp,fp,tn,fn,accuracy,balanced_accuracy,precision,recall,specificity,f1
+grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,190,78,112,0,0,0.4105263157894737,0.5,0.4105263157894737,1.0,0.0,0.582089552238806
+grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,188,0,0,71,117,0.3776595744680851,0.5,,0.0,1.0,
+grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,199,0,0,84,115,0.4221105527638191,0.5,,0.0,1.0,
+grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,191,85,106,0,0,0.44502617801047123,0.5,0.44502617801047123,1.0,0.0,0.6159420289855073
+leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,198,0,0,88,110,0.4444444444444444,0.5,,0.0,1.0,
+leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,292,20,44,119,109,0.476027397260274,0.44255005469158704,0.3125,0.15503875968992248,0.7300613496932515,0.2072538860103627
+leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,278,85,107,15,71,0.3597122302158273,0.333911307271963,0.4427083333333333,0.5448717948717948,0.12295081967213115,0.4885057471264367

@@ -1,0 +1,1537 @@
+window,recording_id,participant,label,split,model,held_out,pred
+77,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+78,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+79,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+80,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+81,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+82,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+83,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+84,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+85,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+86,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+87,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+88,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+89,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+90,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+91,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+92,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+93,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+94,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+95,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+96,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+97,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+98,P01_B05,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+123,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+124,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+125,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+126,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+127,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+128,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+129,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+130,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+131,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+132,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+133,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+134,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+135,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+136,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+137,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+138,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+139,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+140,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+141,P01_S02,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+262,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+263,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+264,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+265,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+266,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+267,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+268,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+269,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+270,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+271,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+272,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+273,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+274,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+275,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+276,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+277,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+278,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+279,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+280,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+281,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+282,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+283,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+284,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+285,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+286,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+287,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+288,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+289,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+290,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+291,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+292,P02_B03,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+327,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+328,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+329,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+330,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+331,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+332,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+333,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+334,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+335,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+336,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+337,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+338,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+339,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+340,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+341,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+342,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+343,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+344,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+345,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+346,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+347,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+348,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+349,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+350,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+351,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+352,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+353,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+354,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+355,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+356,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+357,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+358,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+359,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+360,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+361,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+362,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+363,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+364,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+365,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+366,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+367,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+368,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+369,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+370,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+371,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+372,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+373,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+374,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+375,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+376,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+377,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+378,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+379,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+380,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+381,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+382,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+383,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+384,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+385,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+386,P02_S01,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+596,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+597,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+598,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+599,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+600,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+601,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+602,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+603,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+604,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+605,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+606,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+607,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+608,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+609,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+610,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+611,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+612,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+613,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+614,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+615,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+616,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+617,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+618,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+619,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+620,P03_B03,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+683,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+684,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+685,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+686,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+687,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+688,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+689,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+690,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+691,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+692,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+693,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+694,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+695,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+696,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+697,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+698,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+699,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+700,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+701,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+702,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+703,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+704,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+705,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+706,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+707,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+708,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+709,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+710,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+711,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+712,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+713,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+714,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+715,P03_S02,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 0,bumpy
+0,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+1,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+2,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+3,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+4,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+5,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+6,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+7,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+8,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+9,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+10,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+11,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+12,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+13,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+14,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+15,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+16,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+17,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+18,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+19,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+20,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+21,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+22,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+23,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+24,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+25,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+26,P01_B01,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+110,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+111,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+112,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+113,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+114,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+115,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+116,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+117,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+118,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+119,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+120,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+121,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+122,P01_S01,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+198,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+199,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+200,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+201,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+202,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+203,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+204,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+205,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+206,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+207,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+208,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+209,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+210,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+211,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+212,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+213,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+214,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+215,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+216,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+217,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+218,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+219,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+220,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+221,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+222,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+223,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+224,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+225,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+226,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+227,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+228,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+229,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+230,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+231,P02_B01,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+387,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+388,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+389,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+390,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+391,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+392,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+393,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+394,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+395,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+396,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+397,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+398,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+399,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+400,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+401,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+402,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+403,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+404,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+405,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+406,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+407,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+408,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+409,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+410,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+411,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+412,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+413,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+414,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+415,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+416,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+417,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+418,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+419,P02_S02,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+490,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+491,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+492,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+493,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+494,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+495,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+496,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+497,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+498,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+499,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+500,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+501,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+502,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+503,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+504,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+505,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+506,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+507,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+508,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+509,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+510,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+511,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+512,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+513,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+514,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+515,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+516,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+517,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+518,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+519,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+520,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+521,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+522,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+523,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+524,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+525,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+526,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+527,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+528,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+529,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+530,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+531,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+532,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+533,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+534,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+535,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+536,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+537,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+538,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+539,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+540,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+541,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+542,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+543,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+544,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+545,P03_B01,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+716,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+717,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+718,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+719,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+720,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+721,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+722,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+723,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+724,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+725,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+726,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+727,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+728,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+729,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+730,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+731,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+732,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+733,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+734,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+735,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+736,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+737,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+738,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+739,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+740,P03_S03,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 1,smooth
+27,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+28,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+29,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+30,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+31,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+32,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+33,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+34,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+35,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+36,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+37,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+38,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+39,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+40,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+41,P01_B02,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+42,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+43,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+44,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+45,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+46,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+47,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+48,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+49,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+50,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+51,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+52,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+53,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+54,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+55,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+56,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+57,P01_B03,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+142,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+143,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+144,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+145,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+146,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+147,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+148,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+149,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+150,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+151,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+152,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+153,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+154,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+155,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+156,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+157,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+158,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+159,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+160,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+161,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+162,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+163,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+164,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+165,P01_S03,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+293,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+294,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+295,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+296,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+297,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+298,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+299,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+300,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+301,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+302,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+303,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+304,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+305,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+306,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+307,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+308,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+309,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+310,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+311,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+312,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+313,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+314,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+315,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+316,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+317,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+318,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+319,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+320,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+321,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+322,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+323,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+324,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+325,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+326,P02_B04,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+420,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+421,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+422,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+423,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+424,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+425,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+426,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+427,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+428,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+429,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+430,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+431,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+432,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+433,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+434,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+435,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+436,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+437,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+438,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+439,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+440,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+441,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+442,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+443,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+444,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+445,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+446,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+447,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+448,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+449,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+450,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+451,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+452,P02_S03,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+546,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+547,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+548,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+549,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+550,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+551,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+552,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+553,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+554,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+555,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+556,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+557,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+558,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+559,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+560,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+561,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+562,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+563,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+564,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+565,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+566,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+567,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+568,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+569,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+570,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+571,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+572,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+573,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+574,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+575,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+576,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+577,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+578,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+579,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+580,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+581,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+582,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+583,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+584,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+585,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+586,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+587,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+588,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+589,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+590,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+591,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+592,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+593,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+594,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+595,P03_B02,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+741,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+742,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+743,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+744,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+745,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+746,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+747,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+748,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+749,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+750,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+751,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+752,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+753,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+754,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+755,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+756,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+757,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+758,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+759,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+760,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+761,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+762,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+763,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+764,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+765,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+766,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+767,P03_S04,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 2,smooth
+58,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+59,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+60,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+61,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+62,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+63,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+64,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+65,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+66,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+67,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+68,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+69,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+70,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+71,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+72,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+73,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+74,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+75,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+76,P01_B04,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+99,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+100,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+101,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+102,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+103,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+104,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+105,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+106,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+107,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+108,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+109,P01_B06,P01,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+166,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+167,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+168,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+169,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+170,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+171,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+172,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+173,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+174,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+175,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+176,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+177,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+178,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+179,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+180,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+181,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+182,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+183,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+184,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+185,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+186,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+187,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+188,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+189,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+190,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+191,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+192,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+193,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+194,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+195,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+196,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+197,P01_S04,P01,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+232,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+233,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+234,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+235,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+236,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+237,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+238,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+239,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+240,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+241,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+242,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+243,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+244,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+245,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+246,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+247,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+248,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+249,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+250,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+251,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+252,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+253,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+254,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+255,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+256,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+257,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+258,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+259,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+260,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+261,P02_B02,P02,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+453,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+454,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+455,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+456,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+457,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+458,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+459,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+460,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+461,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+462,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+463,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+464,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+465,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+466,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+467,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+468,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+469,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+470,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+471,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+472,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+473,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+474,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+475,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+476,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+477,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+478,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+479,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+480,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+481,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+482,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+483,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+484,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+485,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+486,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+487,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+488,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+489,P02_S04,P02,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+621,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+622,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+623,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+624,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+625,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+626,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+627,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+628,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+629,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+630,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+631,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+632,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+633,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+634,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+635,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+636,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+637,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+638,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+639,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+640,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+641,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+642,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+643,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+644,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+645,P03_B04,P03,bumpy,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+646,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+647,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+648,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+649,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+650,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+651,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+652,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+653,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+654,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+655,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+656,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+657,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+658,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+659,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+660,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+661,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+662,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+663,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+664,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+665,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+666,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+667,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+668,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+669,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+670,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+671,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+672,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+673,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+674,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+675,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+676,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+677,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+678,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+679,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+680,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+681,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+682,P03_S01,P03,smooth,grouped folds,"DBSCAN, PCA 95% (eps=4, min_samples=5)",fold 3,bumpy
+0,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+1,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+2,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+3,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+4,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+5,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+6,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+7,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+8,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+9,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+10,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+11,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+12,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+13,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+14,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+15,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+16,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+17,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+18,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+19,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+20,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+21,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+22,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+23,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+24,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+25,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+26,P01_B01,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+27,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+28,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+29,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+30,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+31,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+32,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+33,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+34,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+35,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+36,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+37,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+38,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+39,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+40,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+41,P01_B02,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+42,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+43,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+44,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+45,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+46,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+47,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+48,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+49,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+50,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+51,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+52,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+53,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+54,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+55,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+56,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+57,P01_B03,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+58,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+59,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+60,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+61,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+62,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+63,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+64,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+65,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+66,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+67,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+68,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+69,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+70,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+71,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+72,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+73,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+74,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+75,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+76,P01_B04,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+77,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+78,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+79,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+80,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+81,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+82,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+83,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+84,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+85,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+86,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+87,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+88,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+89,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+90,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+91,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+92,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+93,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+94,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+95,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+96,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+97,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+98,P01_B05,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+99,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+100,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+101,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+102,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+103,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+104,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+105,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+106,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+107,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+108,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+109,P01_B06,P01,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+110,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+111,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+112,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+113,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+114,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+115,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+116,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+117,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+118,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+119,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+120,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+121,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+122,P01_S01,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+123,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+124,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+125,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+126,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+127,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+128,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+129,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+130,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+131,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+132,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+133,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+134,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+135,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+136,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+137,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+138,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+139,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+140,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+141,P01_S02,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+142,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+143,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+144,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+145,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+146,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+147,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+148,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+149,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+150,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+151,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+152,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+153,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+154,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+155,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+156,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+157,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+158,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+159,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+160,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+161,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+162,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+163,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+164,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+165,P01_S03,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+166,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+167,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+168,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+169,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+170,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+171,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+172,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+173,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+174,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+175,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+176,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+177,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+178,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+179,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+180,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+181,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+182,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+183,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+184,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+185,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+186,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+187,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+188,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+189,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+190,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+191,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+192,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+193,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+194,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+195,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+196,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+197,P01_S04,P01,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P01,smooth
+198,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+199,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+200,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+201,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+202,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+203,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+204,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+205,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+206,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+207,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+208,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+209,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+210,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+211,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+212,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+213,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+214,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+215,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+216,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+217,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+218,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+219,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+220,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+221,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+222,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+223,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+224,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+225,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+226,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+227,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+228,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+229,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+230,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+231,P02_B01,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+232,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+233,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+234,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+235,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+236,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+237,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+238,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+239,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+240,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+241,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+242,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+243,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+244,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+245,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+246,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+247,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+248,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+249,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+250,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+251,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+252,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+253,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+254,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+255,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+256,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+257,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+258,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+259,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+260,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+261,P02_B02,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+262,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+263,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+264,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+265,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+266,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+267,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+268,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+269,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+270,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+271,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+272,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+273,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+274,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+275,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+276,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+277,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+278,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+279,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+280,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+281,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+282,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+283,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+284,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+285,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+286,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+287,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+288,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+289,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+290,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+291,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+292,P02_B03,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+293,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+294,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+295,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+296,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+297,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+298,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+299,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+300,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+301,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+302,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+303,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+304,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+305,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+306,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+307,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+308,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+309,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+310,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+311,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+312,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+313,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+314,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+315,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+316,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+317,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+318,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+319,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+320,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+321,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+322,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+323,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+324,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+325,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+326,P02_B04,P02,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+327,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+328,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+329,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+330,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+331,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+332,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+333,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+334,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+335,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+336,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+337,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+338,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+339,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+340,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+341,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+342,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+343,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+344,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+345,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+346,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+347,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+348,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+349,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+350,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+351,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+352,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+353,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+354,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+355,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+356,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+357,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+358,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+359,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+360,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+361,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+362,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+363,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+364,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+365,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+366,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+367,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+368,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+369,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+370,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+371,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+372,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+373,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+374,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+375,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+376,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+377,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+378,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+379,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+380,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+381,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+382,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+383,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+384,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+385,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+386,P02_S01,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+387,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+388,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+389,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+390,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+391,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+392,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+393,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+394,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+395,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+396,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+397,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+398,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+399,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+400,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+401,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+402,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+403,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+404,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+405,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+406,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+407,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+408,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+409,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+410,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+411,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+412,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+413,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+414,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+415,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+416,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+417,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+418,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+419,P02_S02,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+420,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+421,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+422,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+423,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+424,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+425,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+426,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+427,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+428,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+429,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+430,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+431,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+432,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+433,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+434,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+435,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+436,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+437,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+438,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+439,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+440,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+441,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+442,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+443,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+444,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+445,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+446,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+447,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+448,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+449,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+450,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+451,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+452,P02_S03,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+453,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,bumpy
+454,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+455,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+456,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+457,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+458,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+459,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+460,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+461,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+462,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+463,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+464,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+465,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+466,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+467,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+468,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+469,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+470,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+471,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+472,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+473,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+474,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+475,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+476,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+477,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+478,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+479,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+480,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+481,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+482,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+483,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+484,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+485,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+486,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+487,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+488,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+489,P02_S04,P02,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P02,smooth
+490,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+491,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+492,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+493,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+494,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+495,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+496,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+497,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+498,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+499,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+500,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+501,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+502,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+503,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+504,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+505,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+506,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+507,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+508,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+509,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+510,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+511,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+512,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+513,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+514,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+515,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+516,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+517,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+518,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+519,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+520,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+521,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+522,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+523,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+524,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+525,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+526,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+527,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+528,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+529,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+530,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+531,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+532,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+533,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+534,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+535,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+536,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+537,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+538,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+539,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+540,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+541,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+542,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+543,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+544,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+545,P03_B01,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+546,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+547,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+548,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+549,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+550,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+551,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+552,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+553,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+554,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+555,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+556,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+557,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+558,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+559,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+560,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+561,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+562,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+563,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+564,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+565,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+566,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+567,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+568,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+569,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+570,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+571,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+572,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+573,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+574,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+575,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+576,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+577,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+578,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+579,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+580,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+581,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+582,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+583,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+584,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+585,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+586,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+587,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+588,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+589,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+590,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+591,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+592,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+593,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+594,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+595,P03_B02,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+596,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+597,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+598,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+599,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+600,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+601,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+602,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+603,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+604,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+605,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+606,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+607,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+608,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+609,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+610,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+611,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+612,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+613,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+614,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+615,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+616,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+617,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+618,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+619,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+620,P03_B03,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+621,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+622,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+623,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+624,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+625,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+626,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+627,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+628,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+629,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+630,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+631,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+632,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+633,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+634,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+635,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+636,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+637,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+638,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+639,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+640,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+641,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+642,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+643,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+644,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+645,P03_B04,P03,bumpy,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+646,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+647,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+648,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+649,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+650,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+651,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+652,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+653,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+654,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+655,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+656,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+657,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+658,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+659,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+660,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+661,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+662,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+663,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+664,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+665,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+666,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+667,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+668,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+669,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+670,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+671,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+672,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+673,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+674,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+675,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+676,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+677,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+678,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+679,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+680,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+681,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+682,P03_S01,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+683,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+684,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+685,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+686,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+687,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+688,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+689,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+690,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+691,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+692,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+693,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+694,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+695,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+696,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+697,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+698,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+699,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+700,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+701,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+702,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+703,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+704,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+705,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+706,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+707,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+708,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+709,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+710,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+711,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+712,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+713,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+714,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+715,P03_S02,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+716,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+717,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+718,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+719,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+720,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+721,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+722,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+723,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+724,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+725,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+726,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+727,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+728,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+729,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+730,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+731,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+732,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+733,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+734,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+735,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+736,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+737,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+738,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+739,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+740,P03_S03,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+741,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+742,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+743,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+744,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+745,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+746,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+747,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+748,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+749,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+750,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+751,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+752,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+753,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+754,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+755,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+756,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+757,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+758,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+759,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+760,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+761,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+762,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+763,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+764,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+765,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,smooth
+766,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
+767,P03_S04,P03,smooth,leave-one-participant-out,"DBSCAN, PCA 95% (eps=4, min_samples=5)",P03,bumpy
