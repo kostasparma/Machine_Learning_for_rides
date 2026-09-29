@@ -1,0 +1,8 @@
+split,model,held_out,n,tp,fp,tn,fn,accuracy,balanced_accuracy,precision,recall,specificity,f1
+grouped folds,"hierarchical (complete linkage), top-13 MI",fold 0,190,78,112,0,0,0.4105263157894737,0.5,0.4105263157894737,1.0,0.0,0.582089552238806
+grouped folds,"hierarchical (complete linkage), top-13 MI",fold 1,188,0,0,71,117,0.3776595744680851,0.5,,0.0,1.0,
+grouped folds,"hierarchical (complete linkage), top-13 MI",fold 2,199,112,1,83,3,0.9798994974874372,0.9810041407867496,0.9911504424778761,0.9739130434782609,0.9880952380952381,0.9824561403508772
+grouped folds,"hierarchical (complete linkage), top-13 MI",fold 3,191,85,106,0,0,0.44502617801047123,0.5,0.44502617801047123,1.0,0.0,0.6159420289855073
+leave-one-participant-out,"hierarchical (complete linkage), top-13 MI",P01,198,80,0,88,30,0.8484848484848485,0.8636363636363636,1.0,0.7272727272727273,1.0,0.8421052631578948
+leave-one-participant-out,"hierarchical (complete linkage), top-13 MI",P02,292,125,11,152,4,0.9486301369863014,0.9507537927426641,0.9191176470588235,0.9689922480620154,0.9325153374233128,0.9433962264150944
+leave-one-participant-out,"hierarchical (complete linkage), top-13 MI",P03,278,0,0,122,156,0.43884892086330934,0.5,,0.0,1.0,
