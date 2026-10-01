@@ -1,0 +1,733 @@
+window,recording_id,participant,label,split,model,held_out,pred
+13,P01_B02,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+14,P01_B02,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+15,P01_B02,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+16,P01_B02,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+17,P01_B02,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+18,P01_B02,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+19,P01_B02,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+20,P01_B03,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+21,P01_B03,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+22,P01_B03,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+23,P01_B03,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+24,P01_B03,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+25,P01_B03,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+26,P01_B03,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+66,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+67,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+68,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+69,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+70,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+71,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+72,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+73,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+74,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+75,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+76,P01_S03,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+122,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+123,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+124,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+125,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+126,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+127,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+128,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+129,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+130,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+131,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+132,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+133,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+134,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+135,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+136,P02_B03,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+198,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+199,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+200,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+201,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+202,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+203,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+204,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+205,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+206,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+207,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+208,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+209,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+210,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+211,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+212,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+213,P02_S03,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+232,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+233,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+234,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+235,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+236,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+237,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+238,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+239,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+240,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+241,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+242,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+243,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+244,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+245,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+246,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+247,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+248,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+249,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+250,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+251,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,bumpy
+252,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+253,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+254,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+255,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+256,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+257,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+258,P03_B01,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+353,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+354,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+355,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+356,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+357,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+358,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+359,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+360,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+361,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+362,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+363,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+364,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+365,P03_S04,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 0,smooth
+36,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+37,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+38,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+39,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+40,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+41,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+42,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+43,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+44,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+45,P01_B05,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+57,P01_S02,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+58,P01_S02,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+59,P01_S02,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+60,P01_S02,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+61,P01_S02,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+62,P01_S02,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+63,P01_S02,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+64,P01_S02,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+65,P01_S02,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+137,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+138,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+139,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+140,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+141,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+142,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+143,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+144,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+145,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+146,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+147,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+148,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+149,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+150,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+151,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+152,P02_B04,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+182,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+183,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+184,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+185,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+186,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+187,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+188,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+189,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+190,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+191,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+192,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+193,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+194,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+195,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+196,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+197,P02_S02,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+259,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+260,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+261,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+262,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+263,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+264,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+265,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+266,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+267,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+268,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+269,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+270,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+271,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+272,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+273,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+274,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+275,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+276,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+277,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+278,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+279,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+280,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+281,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+282,P03_B02,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,bumpy
+325,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+326,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+327,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+328,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+329,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+330,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+331,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+332,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+333,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+334,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+335,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+336,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+337,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+338,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+339,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+340,P03_S02,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 1,smooth
+0,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+1,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+2,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+3,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+4,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+5,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+6,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+7,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+8,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+9,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+10,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+11,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+12,P01_B01,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+51,P01_S01,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+52,P01_S01,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+53,P01_S01,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+54,P01_S01,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+55,P01_S01,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+56,P01_S01,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+92,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+93,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+94,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+95,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+96,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+97,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+98,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+99,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+100,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+101,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+102,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+103,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+104,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+105,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+106,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+107,P02_B01,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+153,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+154,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+155,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+156,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+157,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+158,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+159,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+160,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+161,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+162,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+163,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+164,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+165,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+166,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+167,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+168,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+169,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+170,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+171,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+172,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+173,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+174,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+175,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+176,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+177,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+178,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+179,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+180,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+181,P02_S01,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+283,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+284,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+285,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+286,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+287,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+288,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+289,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+290,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+291,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+292,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+293,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,bumpy
+294,P03_B03,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+341,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+342,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+343,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+344,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+345,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+346,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+347,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+348,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+349,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+350,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+351,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+352,P03_S03,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 2,smooth
+27,P01_B04,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+28,P01_B04,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+29,P01_B04,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+30,P01_B04,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+31,P01_B04,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+32,P01_B04,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+33,P01_B04,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+34,P01_B04,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+35,P01_B04,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+46,P01_B06,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+47,P01_B06,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+48,P01_B06,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+49,P01_B06,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+50,P01_B06,P01,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+77,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+78,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+79,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+80,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+81,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+82,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+83,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+84,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+85,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+86,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+87,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+88,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+89,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+90,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+91,P01_S04,P01,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+108,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+109,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+110,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+111,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+112,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+113,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+114,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+115,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+116,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+117,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+118,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+119,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+120,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+121,P02_B02,P02,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+214,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+215,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+216,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+217,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+218,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+219,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+220,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+221,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+222,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+223,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+224,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+225,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+226,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+227,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+228,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+229,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+230,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+231,P02_S04,P02,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+295,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,bumpy
+296,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+297,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,bumpy
+298,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,bumpy
+299,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,bumpy
+300,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,bumpy
+301,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+302,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+303,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,bumpy
+304,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+305,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+306,P03_B04,P03,bumpy,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,bumpy
+307,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+308,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+309,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+310,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+311,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+312,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+313,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+314,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+315,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+316,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+317,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+318,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+319,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+320,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+321,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+322,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+323,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+324,P03_S01,P03,smooth,grouped folds,"hierarchical (complete linkage), feature count by inner CV",fold 3,smooth
+0,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+1,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+2,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+3,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+4,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+5,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+6,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+7,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+8,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+9,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+10,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+11,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+12,P01_B01,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+13,P01_B02,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+14,P01_B02,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+15,P01_B02,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+16,P01_B02,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+17,P01_B02,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+18,P01_B02,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+19,P01_B02,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+20,P01_B03,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+21,P01_B03,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+22,P01_B03,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+23,P01_B03,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+24,P01_B03,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+25,P01_B03,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+26,P01_B03,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+27,P01_B04,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+28,P01_B04,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+29,P01_B04,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+30,P01_B04,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+31,P01_B04,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+32,P01_B04,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+33,P01_B04,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+34,P01_B04,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+35,P01_B04,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+36,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+37,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+38,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+39,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+40,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+41,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+42,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+43,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+44,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+45,P01_B05,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+46,P01_B06,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+47,P01_B06,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+48,P01_B06,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+49,P01_B06,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,bumpy
+50,P01_B06,P01,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+51,P01_S01,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+52,P01_S01,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+53,P01_S01,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+54,P01_S01,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+55,P01_S01,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+56,P01_S01,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+57,P01_S02,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+58,P01_S02,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+59,P01_S02,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+60,P01_S02,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+61,P01_S02,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+62,P01_S02,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+63,P01_S02,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+64,P01_S02,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+65,P01_S02,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+66,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+67,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+68,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+69,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+70,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+71,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+72,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+73,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+74,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+75,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+76,P01_S03,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+77,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+78,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+79,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+80,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+81,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+82,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+83,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+84,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+85,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+86,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+87,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+88,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+89,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+90,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+91,P01_S04,P01,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P01,smooth
+92,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+93,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+94,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+95,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+96,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+97,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+98,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+99,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+100,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+101,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+102,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+103,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+104,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+105,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+106,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+107,P02_B01,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+108,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+109,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+110,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+111,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+112,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+113,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+114,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+115,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+116,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+117,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+118,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+119,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+120,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+121,P02_B02,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+122,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+123,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+124,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+125,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+126,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+127,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+128,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+129,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+130,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+131,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+132,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+133,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+134,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+135,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+136,P02_B03,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+137,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+138,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+139,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+140,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+141,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+142,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+143,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+144,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+145,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+146,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+147,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+148,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+149,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+150,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+151,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+152,P02_B04,P02,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+153,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,bumpy
+154,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+155,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+156,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+157,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+158,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+159,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+160,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+161,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+162,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+163,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+164,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+165,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+166,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+167,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+168,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+169,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+170,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+171,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+172,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+173,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+174,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+175,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+176,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+177,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+178,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+179,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+180,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+181,P02_S01,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+182,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+183,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+184,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+185,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+186,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+187,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+188,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+189,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+190,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+191,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+192,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+193,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+194,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+195,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+196,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+197,P02_S02,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+198,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+199,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+200,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+201,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+202,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+203,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+204,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+205,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+206,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+207,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+208,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+209,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+210,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+211,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+212,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+213,P02_S03,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+214,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+215,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+216,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+217,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+218,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+219,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+220,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+221,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+222,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+223,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+224,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+225,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+226,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+227,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+228,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+229,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+230,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+231,P02_S04,P02,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P02,smooth
+232,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+233,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+234,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+235,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+236,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+237,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+238,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+239,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+240,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+241,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+242,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+243,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+244,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+245,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+246,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+247,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+248,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+249,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+250,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+251,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+252,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+253,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+254,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+255,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+256,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+257,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+258,P03_B01,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+259,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+260,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+261,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+262,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+263,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+264,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+265,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+266,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+267,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+268,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+269,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+270,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+271,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+272,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+273,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+274,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+275,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+276,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+277,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+278,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+279,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+280,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+281,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+282,P03_B02,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+283,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+284,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+285,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+286,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+287,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+288,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+289,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+290,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+291,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+292,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+293,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+294,P03_B03,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+295,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+296,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+297,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+298,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+299,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+300,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+301,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+302,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+303,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+304,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+305,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+306,P03_B04,P03,bumpy,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,bumpy
+307,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+308,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+309,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+310,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+311,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+312,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+313,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+314,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+315,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+316,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+317,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+318,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+319,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+320,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+321,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+322,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+323,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+324,P03_S01,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+325,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+326,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+327,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+328,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+329,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+330,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+331,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+332,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+333,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+334,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+335,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+336,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+337,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+338,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+339,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+340,P03_S02,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+341,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+342,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+343,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+344,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+345,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+346,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+347,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+348,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+349,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+350,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+351,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+352,P03_S03,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+353,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+354,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+355,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+356,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+357,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+358,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+359,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+360,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+361,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+362,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+363,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+364,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
+365,P03_S04,P03,smooth,leave-one-participant-out,"hierarchical (complete linkage), feature count by inner CV",P03,smooth
