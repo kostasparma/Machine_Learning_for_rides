@@ -1,8 +1,8 @@
 split,model,held_out,n,tp,fp,tn,fn,accuracy,balanced_accuracy,precision,recall,specificity,f1
-grouped folds,"Gustafson-Kessel, feature count by inner CV",fold 0,80,28,1,44,7,0.9,0.8888888888888888,0.9655172413793104,0.8,0.9777777777777777,0.875
-grouped folds,"Gustafson-Kessel, feature count by inner CV",fold 1,77,45,0,32,0,1.0,1.0,1.0,1.0,1.0,1.0
-grouped folds,"Gustafson-Kessel, feature count by inner CV",fold 2,80,46,1,33,0,0.9875,0.9852941176470589,0.9787234042553191,1.0,0.9705882352941176,0.989247311827957
-grouped folds,"Gustafson-Kessel, feature count by inner CV",fold 3,78,33,3,42,0,0.9615384615384616,0.9666666666666667,0.9166666666666666,1.0,0.9333333333333333,0.9565217391304348
-leave-one-participant-out,"Gustafson-Kessel, feature count by inner CV",P01,72,39,0,33,0,1.0,1.0,1.0,1.0,1.0,1.0
-leave-one-participant-out,"Gustafson-Kessel, feature count by inner CV",P02,125,53,9,63,0,0.928,0.9375,0.8548387096774194,1.0,0.875,0.9217391304347826
-leave-one-participant-out,"Gustafson-Kessel, feature count by inner CV",P03,118,60,0,51,7,0.940677966101695,0.9477611940298507,1.0,0.8955223880597015,1.0,0.9448818897637795
+grouped folds,"Gustafson-Kessel, feature count by inner CV",fold 0,75,43,2,29,1,0.96,0.9563782991202345,0.9555555555555556,0.9772727272727273,0.9354838709677419,0.9662921348314607
+grouped folds,"Gustafson-Kessel, feature count by inner CV",fold 1,66,40,0,26,0,1.0,1.0,1.0,1.0,1.0,1.0
+grouped folds,"Gustafson-Kessel, feature count by inner CV",fold 2,75,24,1,43,7,0.8933333333333333,0.875733137829912,0.96,0.7741935483870968,0.9772727272727273,0.8571428571428571
+grouped folds,"Gustafson-Kessel, feature count by inner CV",fold 3,68,31,5,32,0,0.9264705882352942,0.9324324324324325,0.8611111111111112,1.0,0.8648648648648649,0.9253731343283582
+leave-one-participant-out,"Gustafson-Kessel, feature count by inner CV",P01,71,38,0,32,1,0.9859154929577465,0.9871794871794872,1.0,0.9743589743589743,1.0,0.987012987012987
+leave-one-participant-out,"Gustafson-Kessel, feature count by inner CV",P02,110,49,9,52,0,0.9181818181818182,0.9262295081967213,0.8448275862068966,1.0,0.8524590163934426,0.9158878504672897
+leave-one-participant-out,"Gustafson-Kessel, feature count by inner CV",P03,103,53,1,44,5,0.941747572815534,0.9457854406130268,0.9814814814814815,0.9137931034482759,0.9777777777777777,0.9464285714285714
