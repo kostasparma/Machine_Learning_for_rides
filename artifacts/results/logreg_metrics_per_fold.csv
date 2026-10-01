@@ -1,8 +1,8 @@
 split,model,held_out,n,tp,fp,tn,fn,accuracy,balanced_accuracy,precision,recall,specificity,f1
-grouped folds,"logistic regression, feature count and C by inner CV",fold 0,75,44,0,31,0,1.0,1.0,1.0,1.0,1.0,1.0
-grouped folds,"logistic regression, feature count and C by inner CV",fold 1,66,39,5,21,1,0.9090909090909091,0.8913461538461538,0.8863636363636364,0.975,0.8076923076923077,0.9285714285714286
-grouped folds,"logistic regression, feature count and C by inner CV",fold 2,75,24,1,43,7,0.8933333333333333,0.875733137829912,0.96,0.7741935483870968,0.9772727272727273,0.8571428571428571
-grouped folds,"logistic regression, feature count and C by inner CV",fold 3,68,31,13,24,0,0.8088235294117647,0.8243243243243243,0.7045454545454546,1.0,0.6486486486486487,0.8266666666666667
-leave-one-participant-out,"logistic regression, feature count and C by inner CV",P01,71,33,0,32,6,0.9154929577464789,0.9230769230769231,1.0,0.8461538461538461,1.0,0.9166666666666666
-leave-one-participant-out,"logistic regression, feature count and C by inner CV",P02,110,49,12,49,0,0.8909090909090909,0.9016393442622951,0.8032786885245902,1.0,0.8032786885245902,0.8909090909090909
-leave-one-participant-out,"logistic regression, feature count and C by inner CV",P03,103,51,0,45,7,0.9320388349514563,0.9396551724137931,1.0,0.8793103448275862,1.0,0.9357798165137615
+grouped folds,"logistic regression, feature count and C by inner CV",fold 0,96,56,2,38,0,0.9791666666666666,0.975,0.9655172413793104,1.0,0.95,0.9824561403508771
+grouped folds,"logistic regression, feature count and C by inner CV",fold 1,91,50,1,40,0,0.989010989010989,0.9878048780487805,0.9803921568627451,1.0,0.975609756097561,0.9900990099009901
+grouped folds,"logistic regression, feature count and C by inner CV",fold 2,88,33,1,46,8,0.8977272727272727,0.8918007265179035,0.9705882352941176,0.8048780487804879,0.9787234042553191,0.88
+grouped folds,"logistic regression, feature count and C by inner CV",fold 3,91,38,7,44,2,0.9010989010989011,0.9063725490196078,0.8444444444444444,0.95,0.8627450980392157,0.8941176470588236
+leave-one-participant-out,"logistic regression, feature count and C by inner CV",P01,92,45,0,41,6,0.9347826086956522,0.9411764705882353,1.0,0.8823529411764706,1.0,0.9375
+leave-one-participant-out,"logistic regression, feature count and C by inner CV",P02,140,61,14,65,0,0.9,0.9113924050632911,0.8133333333333334,1.0,0.8227848101265823,0.8970588235294118
+leave-one-participant-out,"logistic regression, feature count and C by inner CV",P03,134,66,1,58,9,0.9253731343283582,0.9315254237288135,0.9850746268656716,0.88,0.9830508474576272,0.9295774647887324
