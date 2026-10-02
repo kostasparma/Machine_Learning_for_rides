@@ -109,10 +109,10 @@ The current code:
 2. Removes five seconds from each end of a recording.
 3. Calculates vertical and horizontal acceleration using gravity.
 4. Filters vertical acceleration between 3 and 20 Hz.
-5. Creates 14-second windows with a 4-second step, assuming 100 Hz sampling.
+5. Creates 8-second windows with a 4-second step, assuming 100 Hz sampling.
 6. Extracts 66 time-domain and frequency-domain features per window.
 
-The saved feature table currently contains 324 windows: 166 bumpy and 158 smooth. These counts can change when the input data or preprocessing settings change.
+The saved feature table currently contains 324 windows: 187 bumpy and 179 smooth. These counts can change when the input data or preprocessing settings change.
 
 Feature-selection experiments include variance filtering, correlation filtering, Fisher scores and mutual information.
 
